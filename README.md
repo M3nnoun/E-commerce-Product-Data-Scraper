@@ -1,5 +1,3 @@
-Certainly, I've updated the README file based on the provided code. You can replace the existing README content with the following:
-
 **README.md:**
 
 # E-commerce Product Data Scraper
@@ -43,7 +41,3 @@ python scraper.py
 - This scraper is specific to the Luxury Drip e-commerce website. To use it for a different website, you will need to adapt the code to match the structure and classes of that website.
 - Be sure to read and adhere to the website's terms of use and policies. Some websites may prohibit or restrict web scraping.
 - The script includes a 10-second delay between category requests (`time.sleep(10)`) to prevent overloading the website's server.
-
----
-
-With this updated README, users can better understand how to use your scraper, what prerequisites are required, and any customization they may need to perform. Please make sure to include the LICENSE file mentioned in the README if you have one.
